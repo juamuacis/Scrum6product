@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/juamuacis/Scrum6product.git/static/css/main.073c9b0a.css",
-    "main.js": "/juamuacis/Scrum6product.git/static/js/main.ad8e6986.js",
-    "static/js/787.28cb0dcd.chunk.js": "/juamuacis/Scrum6product.git/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/juamuacis/Scrum6product.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/juamuacis/Scrum6product.git/index.html",
-    "main.073c9b0a.css.map": "/juamuacis/Scrum6product.git/static/css/main.073c9b0a.css.map",
-    "main.ad8e6986.js.map": "/juamuacis/Scrum6product.git/static/js/main.ad8e6986.js.map",
-    "787.28cb0dcd.chunk.js.map": "/juamuacis/Scrum6product.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/juamuacis/Scrum6product.git/reactmovieapp/static/css/main.073c9b0a.css",
+    "main.js": "/juamuacis/Scrum6product.git/reactmovieapp/static/js/main.94442960.js",
+    "static/js/787.28cb0dcd.chunk.js": "/juamuacis/Scrum6product.git/reactmovieapp/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/juamuacis/Scrum6product.git/reactmovieapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/juamuacis/Scrum6product.git/reactmovieapp/index.html",
+    "main.073c9b0a.css.map": "/juamuacis/Scrum6product.git/reactmovieapp/static/css/main.073c9b0a.css.map",
+    "main.94442960.js.map": "/juamuacis/Scrum6product.git/reactmovieapp/static/js/main.94442960.js.map",
+    "787.28cb0dcd.chunk.js.map": "/juamuacis/Scrum6product.git/reactmovieapp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ad8e6986.js"
+    "static/js/main.94442960.js"
   ]
 }
